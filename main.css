@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+}
+
+.message_error img{
+    margin: auto;
+    display: block;
+    padding: 100px;
+}
+
+.message_error p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
